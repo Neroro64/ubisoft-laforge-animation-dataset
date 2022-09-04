@@ -4,3 +4,8 @@
 output/
 
 *.pyc
+
+model/
+log/
+data/
+dataset/
